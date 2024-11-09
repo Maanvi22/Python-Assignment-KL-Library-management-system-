@@ -1,0 +1,2 @@
+Librarian ID | First Name | Last Name | Email Address | Contact Number | Password
+LIB1001 | liam | james | liamjames@gmail.com | +60 11 8521 1478 | JA76#$lik.

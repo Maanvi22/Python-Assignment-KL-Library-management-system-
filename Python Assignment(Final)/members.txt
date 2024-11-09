@@ -1,0 +1,12 @@
+MemberID | Firstname | Lastname | Email address | Contact Number |  Password
+MEM0006 | Aseel | Sanad | aseelsanad@yahoo.com | +60 11 4567 8521 | AseelS@nad#12
+MEM0007 | sara | elwalid | sara@gmail.com | +60 12 4521 9635 | Sara!123
+MEM3326 | Shukri | Dahir Ahmed | shukriahmed@gmail.com | +60 12 8965 4521 | $Hukr123
+MEM1375 | Joe | Biden | joebidenn@gmail.com | +60 21 8523 9632 | JoeB1den@USA#1
+MEM0994 | jane | jones | jane3@gmail.com | +60 12 4589 7632 | Jane1234!
+MEM9716 | Grace | Maria | mariamaria@yahoo.com | +60 12 8523 9856 | Gr@ce#1290
+MEM7250 | Emily | Cooper | emcooper@gmail.com | +60 14 5236 8965 | EMMMcooper#34
+MEM9117 | Swanki | Paki | Swankiipaki@gmail.com | +60 11 6325 8569 | Swank1@pak!
+MEM1011 | Bigg | Frankii | biggfranko@gmail.com | +60 45 8523 7894 | B1ggFrankii#franco
+MEM2122 | Diana | Smith | dianasmith@gmail.com | +60 11 2365 2541 | Dian@5mith
+MEM5328 | Sabrina | Carpenter | sabrinacarpenter@gmail.com | +60 11 7890 2525 | SabrinaC@rpenter100%
